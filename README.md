@@ -27,8 +27,6 @@
     -   DNS: `dig d2efaa6dd6ae6136c19944fae329efd3fb2babe1e6eec26982a422aa._openpgpkey.ari.lt OPENPGPKEY`
 -   Pronouns: she/her
 -   Want to support? Note: You can either send to my wallet address immediately, or, you can use AnonPay if you want to use other coins which you can swap immediately. If you use AnonPay be quick since the transactions can take some time and expire.
-    -   Monero (I tend to hold onto it): [451VZy8FPDXCVvKWkq5cby3V24ApLnjaTdwDgKG11uqbUJYjxQWZVKiiefi4HvFd7haeUtGFRBaxgKNTr3vR78pkMzgJaAZ](monero:451VZy8FPDXCVvKWkq5cby3V24ApLnjaTdwDgKG11uqbUJYjxQWZVKiiefi4HvFd7haeUtGFRBaxgKNTr3vR78pkMzgJaAZ?recipient_name=Ari%20Archer&tx_description=Donate%20to%20ari-web) (OpenAlias: `xmr@ari.lt`) | [AnonPay](https://ari.lt/xmr), [AnonPay onion](https://ari.lt/oxmr)
-    -   Litecoin (I can use this immediately to pay for servers and whatnot :D): [ltc1qfmx6hvyfrphsp0uu29fjwzrqdpt8vse8p5xxh3](litecoin:ltc1qfmx6hvyfrphsp0uu29fjwzrqdpt8vse8p5xxh3?message=Donate%20to%20ari-web&time=1731763810) (OpenAlias: `ltc@ari.lt`) | [AnonPay](https://ari.lt/ltc), [AnonPay onion](https://ari.lt/oltc)
 -   Contacts
     -   Email: <ari@ari.lt>
     -   Matrix: [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
